@@ -1,4 +1,1 @@
-Developed a web scraping tool using Python to extract movie data from
-IMDb, including titles, release dates, genres, ratings, and other relevant
-information. Processed and cleaned the scraped data using Pandas to
-improve data accessibility and usability for subsequent analysis tasks.
+Developed a Python-based web scraping tool to extract movie data from IMDb, including titles, release dates, genres, and ratings. Utilized libraries such as Requests and BeautifulSoup for data extraction, and Pandas for data cleaning and preprocessing. This tool improved data accessibility and usability for subsequent analysis tasks.
